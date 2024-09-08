@@ -10,11 +10,31 @@ An attempt to translate a German translation of a French text into English prose
 
 Approximate translation of title: **Serafin: Reading Forbidden**
 
-May have been translated in the mid 1970s as: **Serafin and His Missing Identity Papers**
+May have been translated in the mid 1970s as: **Serafin and His Missing Identity Papers** but was known in the UK as "Beebo and the Funny Machine".
 
 ### Raw Translations
 
 These page references are relative, not physical. Translation Page 1-7 used DeepL. From page 8, trying the translations via ChatGPT, which seems to be making better guesses with the 'distorted' OCR output.
+
+Pages marked ***new re-scan*** have been scanned in a higher resolution, OCR'd with Image Scan OCR, and translated by ChatGPT with the prompt: "Please translate the following in the style of the 1970's edition of Beebo and the Funny Machine."
+
+#### Page 1 (*new re-scan*)
+
+Serafin and Plum were drifting lazily through the sky in their balloon when, quite unexpectedly, a thunderstorm rolled in. “Hold on tight!” shouted Serafin, but by then, it was already too late. A gust of wind had sent Plum tumbling right over the side! Horrified and utterly disbelieving, Serafin stared down into the depths. But—oh, wonder! There was Plum, dangling from the balloon's anchor by his sweater.
+
+“Help, Serafin!” Plum cried. “The sweater's tearing!”
+
+“Hang on to the anchor! I’ll pull you up!”
+
+Now, that was easier said than done. Serafin nearly wrenched his arm out of its socket trying to haul Plum back into the basket. Finally, with great effort, Plum was safe once more. The wind still shook the ropes violently, as if it meant to tear the balloon into a thousand pieces, but little by little, the storm began to subside. The two friends were about to breathe a sigh of relief when they noticed something new—and alarming. The storm had torn gaping holes in the balloon, and now they were plummeting rapidly toward the ground.
+
+“Oh no, we’re falling!”
+
+“Where are we?”
+
+“No idea, but there's a village down there, with lots of fields. We’re headed straight for it… Brace yourself, we’re already there!”
+
+And in the very next moment, Serafin and Plum, along with the basket and balloon, found themselves hanging precariously from the top of the church steeple.
 
 #### Page 1
 
