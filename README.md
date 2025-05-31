@@ -18,23 +18,27 @@ These page references are relative, not physical. Translation Page 1-7 used Deep
 
 Pages marked ***new re-scan*** have been scanned in a higher resolution, OCR'd with Image Scan OCR, and translated by ChatGPT with the prompt: "Please translate the following in the style of the 1970's edition of Beebo and the Funny Machine."
 
-#### Page 1 (*new re-scan*)
+#### Page 1 (*new-new re-scan of book from Amazon Germany*)
 
-Serafin and Plum were drifting lazily through the sky in their balloon when, quite unexpectedly, a thunderstorm rolled in. “Hold on tight!” shouted Serafin, but by then, it was already too late. A gust of wind had sent Plum tumbling right over the side! Horrified and utterly disbelieving, Serafin stared down into the depths. But—oh, wonder! There was Plum, dangling from the balloon's anchor by his sweater.
+Serafin and Plum were drifting leisurely through the sky in their balloon when suddenly a storm broke out.
+“Hold on to something!” shouted Serafin—but it was already too late. A gust of wind had simply blown Plum overboard! Serafin stared down in shock and disbelief.
+But lo and behold—there was Plum, dangling below, his sweater caught on the balloon’s anchor.
 
-“Help, Serafin!” Plum cried. “The sweater's tearing!”
+“Help, Serafin!” Plum cried. “The sweater’s going to tear!”
 
-“Hang on to the anchor! I’ll pull you up!”
+“Hold on to the anchor! I’ll pull you up!”
 
-Now, that was easier said than done. Serafin nearly wrenched his arm out of its socket trying to haul Plum back into the basket. Finally, with great effort, Plum was safe once more. The wind still shook the ropes violently, as if it meant to tear the balloon into a thousand pieces, but little by little, the storm began to subside. The two friends were about to breathe a sigh of relief when they noticed something new—and alarming. The storm had torn gaping holes in the balloon, and now they were plummeting rapidly toward the ground.
+That was easier said than done. Serafin nearly dislocated his arm trying to haul Plum back up, but at last, Plum was safely in the basket again. The wind still tugged violently at the ropes, as if it meant to rip the balloon to shreds, but gradually the storm began to subside.
+
+The two friends were just beginning to breathe a sigh of relief when they noticed a new danger. The storm had torn holes in the balloon, and now they were rapidly sinking.
 
 “Oh no, we’re falling!”
 
-“Where are we?”
+“Where are we, anyway?”
 
-“No idea, but there's a village down there, with lots of fields. We’re headed straight for it… Brace yourself, we’re already there!”
+“No idea—but down there’s a village with lots of meadows. We’re heading straight for it… Watch out, we’re already—!”
 
-And in the very next moment, Serafin and Plum, along with the basket and balloon, found themselves hanging precariously from the top of the church steeple.
+And in the very next moment, Serafin and Plum, along with their basket and balloon, were hanging from the tip of the church steeple.
 
 #### Page 1
 
